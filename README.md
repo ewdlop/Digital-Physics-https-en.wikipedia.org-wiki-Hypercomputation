@@ -20,3 +20,8 @@ vs
 
 I be thinking, maybe some folks be feeling overwhelmed, like they can't keep up with all the changes. It's like they be trying to catch a speeding train, but it's moving too fast. And then there's those who be wanting to learn, but they don't know where to start, you feel me
 Oh
+
+
+###
+
+(what did Ai saw)
