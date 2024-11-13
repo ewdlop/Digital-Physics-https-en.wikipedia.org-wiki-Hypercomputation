@@ -24,4 +24,4 @@ I be thinking, maybe some folks be feeling overwhelmed, like they can't keep up 
 
 ###
 
-(what did Ai saw)(what did i thought?)(what did AI thought?)
+(what did Ai saw)(what did i thought?)(what did AI thought?)(what is AI not telling? vs what is AI not albe to tell itself?)
