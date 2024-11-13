@@ -24,4 +24,4 @@ Oh
 
 ###
 
-(what did Ai saw)
+(what did Ai saw)(what did i thought?)(what did AI thought?)
