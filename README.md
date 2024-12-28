@@ -86,3 +86,8 @@ At the Planck scale:
 - **Information density** at the Planck scale is incredibly high, around \( 10^{104} \, \text{bits/m}^3 \).
 
 This theoretical limit illustrates the quantum mechanical constraints of information storage and processing at the smallest scales of spacetime.
+
+
+#### 10^{104} bits = 2^10^{104} combinaticombinations 
+
+
